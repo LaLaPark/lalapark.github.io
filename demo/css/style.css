@@ -9,7 +9,6 @@ h1, h2, h3 {margin: 0;}
 ul, ol {margin: 0;}
 p {margin: 0;}
 html, body{
- font-family: 'Oxygen', sans-serif;
    font-size: 100%;
    background:#fff; 
     overflow-y: auto;
@@ -50,7 +49,7 @@ a:hover {
 }
 .logo h1 {
     font-size:3.5em;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
 }
 .logo h1 a{
 	 color: #fff;
@@ -100,7 +99,7 @@ background-size: cover;*/
     color: #fff;
     font-size: 1.3em;
     -webkit-transition-duration: 0.5s;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
 }
 .m_nav_item a:hover {
     color:#000;
@@ -278,7 +277,7 @@ span.botted {
 .changer-left h3 {
     font-size: 2.5em;
     color: #333;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
     margin-bottom: 0.3em;
 }
 .changer-left p {
@@ -289,7 +288,7 @@ span.botted {
 .changer-right-snd h3 {
     font-size: 2.5em;
     color: #333;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
     margin-bottom: 0.3em;
 }
 .changer-right-snd p {
@@ -300,7 +299,7 @@ span.botted {
 .changer-left-trd h3 {
     font-size: 2.5em;
     color: #333;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
     margin-bottom: 0.3em;
 }
 .changer-left-trd p {
@@ -350,14 +349,13 @@ span.botted {
 .w3ser-top h3 {
     font-size: 3.5em;
     color: #fff;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
 }
 .ser-right p {
     font-size: 1.6em;
     line-height: 2em;
     color:#fff;
     padding: 1.5em 0em;
-    font-family: 'Aladin', cursive;
 }
 /*--service end here--*/
 /*--features start here--*/
@@ -374,7 +372,7 @@ span.botted {
 .features-top h2 {
     font-size: 3.5em;
     color: #fff;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
 }
 .fea-agileits {
     background: url(../images/con-rit-bg.png)no-repeat;
@@ -385,13 +383,13 @@ span.botted {
     font-size: 1.8em;
     color: #fff;
     margin-bottom:1em;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
 }
 .fea-rit-top h3 {
     font-size: 1.8em;
     color: #fff;
     margin-bottom: 1em;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
 }
 .fea-left-top {
     border-bottom: 1px solid rgba(255, 255, 255, 0.68);
@@ -480,7 +478,7 @@ span.botted {
 .gallery-top-w3ls h3 {
     font-size: 3.5em;
     color: #000;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
 }
 /*--*/
 .content-middle-in,.content-bottom-in {
@@ -608,7 +606,7 @@ span.botted {
 .quotation-main h4 {
     font-size: 1.5em;
     color: #000;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
 }
 /*--quotationend here--*/
 /*--contact start here--*/
@@ -668,7 +666,7 @@ span.botted {
 .contact-top h3 {
     font-size: 3.5em;
     color: #fff;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
 }
 .contact-left {
     background: url(../images/con-rit-bg.png)no-repeat;
@@ -691,13 +689,13 @@ span.botted {
     font-size: 1.8em;
     color:#fff;
     margin-bottom: 0.8em;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
 }
 .contact-rit-info h4 {
     font-size: 1.8em;
     color: #fff;
     margin-bottom: 0.5em;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
 }
 .contact-right p {
     font-size: 1em;
@@ -799,7 +797,7 @@ span.botted {
     color: #fff;
     margin-bottom: 1em;
     text-align: center;
-    font-family: 'Aladin', cursive;
+    font-family: 'Pacifico', cursive;
 }
 /*--contact end here--*/
 /*--copyrights start  here--*/
