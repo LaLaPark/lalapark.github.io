@@ -62,10 +62,17 @@
                 lat: parseFloat(value.lat),
                 lng: parseFloat(value.lon)
                 };
+                var paga='https://lalapark.it/images/paga.png';
+                var disabili='https://lalapark.it/images/disabili.png';
+                var gratis='https://lalapark.it/images/gratis.png';
+                var img;
+                if(value.pagamento=='true') img=paga;
+                else img=gratis;
+                if(value.speciale=='true') img=disabili;
                 var marker = new google.maps.Marker({
                 position: pos1,
                 map: map,
-                title: 'P'
+                icon: img
             });
             var infowindow = new google.maps.InfoWindow({
           content: 'user:'+value.user+'<br>quando:'+value.when+'<br>tipo:'+value.tipo+'<br>pagamento:'+value.pagamento+'<br>speciale:'+value.speciale+'<br>stato/occupato:'+value.occupato
