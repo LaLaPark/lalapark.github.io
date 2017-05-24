@@ -68,7 +68,7 @@
                 title: 'P'
             });
             var infowindow = new google.maps.InfoWindow({
-          content: 'user:'+value.user+'<br>quando:'+value.when+'<br>tipo:'+value.tipo+'<br>pagamento:'+value.pagamento+'<br>speciale:'+value.speciale
+          content: 'user:'+value.user+'<br>quando:'+value.when+'<br>tipo:'+value.tipo+'<br>pagamento:'+value.pagamento+'<br>speciale:'+value.speciale+'<br>stato/occupato:'+value.occupato
             });
             marker.addListener('click', function() {
             infowindow.open(map, marker);
